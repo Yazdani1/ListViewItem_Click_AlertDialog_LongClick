@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">ClassFourListView</string>
+
+    <string-array name="item">
+
+        <item>Java</item>
+        <item>C</item>
+        <item>Python</item>
+        <item>Kotlin</item>
+        <item>C++</item>
+        <item>Ruby</item>
+        <item>Java</item>
+        <item>C</item>
+        <item>Python</item>
+        <item>Kotlin</item>
+        <item>C++</item>
+        <item>Ruby</item>
+        <item>Java</item>
+        <item>C</item>
+        <item>Python</item>
+        <item>Kotlin</item>
+        <item>C++</item>
+        <item>Ruby</item>
+        <item>Java</item>
+        <item>C</item>
+        <item>Python</item>
+        <item>Kotlin</item>
+        <item>C++</item>
+        <item>Ruby</item>
+
+
+    </string-array>
+
+</resources>
